@@ -1,0 +1,740 @@
+{
+    "201 SOUTH WASHINGTON STREET": [
+        {
+            "NPI": "1437365012",
+            "Name": "LEE CARTER",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "201 SOUTH WASHINGTON STREET",
+            "City": "AUTAUGAVILLE",
+            "State": "AL",
+            "ZIP": "36003"
+        }
+    ],
+    "PO BOX 296": [
+        {
+            "NPI": "1790168839",
+            "Name": "KENDRA HOWARD",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "PO BOX 296",
+            "City": "AUTAUGAVILLE",
+            "State": "AL",
+            "ZIP": "36003"
+        }
+    ],
+    "414 CLEAR CREEK VW": [
+        {
+            "NPI": "1235729906",
+            "Name": "JUDY JOHNSON",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "414 CLEAR CREEK VW",
+            "City": "PRATTVILLE",
+            "State": "AL",
+            "ZIP": "36003"
+        }
+    ],
+    "PO BOX 70365": [
+        {
+            "NPI": "1437126117",
+            "Name": "BRUCE JONES",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "PO BOX 70365",
+            "City": "MONTGOMERY",
+            "State": "AL",
+            "ZIP": "36003"
+        }
+    ],
+    "1725 PINE ST": [
+        {
+            "NPI": "1073151007",
+            "Name": "DUSTY LAMBERT-WRIGHT",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "1725 PINE ST",
+            "City": "MONTGOMERY",
+            "State": "AL",
+            "ZIP": "36003"
+        }
+    ],
+    "PO BOX 534": [
+        {
+            "NPI": "1194578872",
+            "Name": "VIVIAN MORRISON-FOREST",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "PO BOX 534",
+            "City": "AUTAUGAVILLE",
+            "State": "AL",
+            "ZIP": "36003"
+        }
+    ],
+    "591 SHACKLEFORD LN": [
+        {
+            "NPI": "1942953237",
+            "Name": "RAEGAN SHACKELFORD",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "591 SHACKLEFORD LN",
+            "City": "AUTAUGAVILLE",
+            "State": "AL",
+            "ZIP": "36003"
+        }
+    ],
+    "2348 COUNTY ROAD 61": [
+        {
+            "NPI": "1144956731",
+            "Name": "MELISSA BISHOP",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "2348 COUNTY ROAD 61",
+            "City": "DEATSVILLE",
+            "State": "AL",
+            "ZIP": "36006"
+        },
+        {
+            "NPI": "1144956731",
+            "Name": "MELISSA BISHOP",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "2348 COUNTY ROAD 61",
+            "City": "DEATSVILLE",
+            "State": "AL",
+            "ZIP": "36022"
+        }
+    ],
+    "2368 COUNTY ROAD 40 W": [
+        {
+            "NPI": "1285412346",
+            "Name": "EDITH CAVER",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "2368 COUNTY ROAD 40 W",
+            "City": "BILLINGSLEY",
+            "State": "AL",
+            "ZIP": "36006"
+        }
+    ],
+    "1606 COUNTY ROAD 24": [
+        {
+            "NPI": "1639289192",
+            "Name": "GEORGE WILLIAMS",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "1606 COUNTY ROAD 24",
+            "City": "BILLINGSLEY",
+            "State": "AL",
+            "ZIP": "36006"
+        }
+    ],
+    "2105 E SOUTH BLVD": [
+        {
+            "NPI": "1952122855",
+            "Name": "ASHLEIGH JACKS",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "2105 E SOUTH BLVD",
+            "City": "MONTGOMERY",
+            "State": "AL",
+            "ZIP": "36051"
+        }
+    ],
+    "1457 GOLD MINE BRANCH RD": [
+        {
+            "NPI": "1407154032",
+            "Name": "DEBRA SIMS",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "1457 GOLD MINE BRANCH RD",
+            "City": "MARBURY",
+            "State": "AL",
+            "ZIP": "36051"
+        }
+    ],
+    "2051 COUNTY ROAD 123": [
+        {
+            "NPI": "1992266605",
+            "Name": "SELENA SPIRES",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "2051 COUNTY ROAD 123",
+            "City": "MARBURY",
+            "State": "AL",
+            "ZIP": "36051"
+        }
+    ],
+    "2489 COBBS FORD RD": [
+        {
+            "NPI": "1144773003",
+            "Name": "MARTHA ACTON",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "2489 COBBS FORD RD",
+            "City": "PRATTVILLE",
+            "State": "AL",
+            "ZIP": "36066"
+        }
+    ],
+    "1880 E MAIN ST": [
+        {
+            "NPI": "1821320045",
+            "Name": "JODI ADAMSON",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "1880 E MAIN ST",
+            "City": "PRATTVILLE",
+            "State": "AL",
+            "ZIP": "36066"
+        }
+    ],
+    "1214 MCCLAIN DR": [
+        {
+            "NPI": "1972230969",
+            "Name": "JIVELISSE AGUILA-CINTRON",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "1214 MCCLAIN DR",
+            "City": "PRATTVILLE",
+            "State": "AL",
+            "ZIP": "36066"
+        }
+    ],
+    "1609 ASHWOOD DR": [
+        {
+            "NPI": "1124011960",
+            "Name": "MICHAEL AINSCOUGH",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "1609 ASHWOOD DR",
+            "City": "PRATTVILLE",
+            "State": "AL",
+            "ZIP": "36066"
+        }
+    ],
+    "114 MEDICAL CENTER DR": [
+        {
+            "NPI": "1154147593",
+            "Name": "ASHLEY ALEXANDER",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "114 MEDICAL CENTER DR",
+            "City": "PRATTVILLE",
+            "State": "AL",
+            "ZIP": "36066"
+        },
+        {
+            "NPI": "1861146771",
+            "Name": "COURTNEY ARNETTE",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "114 MEDICAL CENTER DR",
+            "City": "PRATTVILLE",
+            "State": "AL",
+            "ZIP": "36066"
+        }
+    ],
+    "1722 PINE ST STE 203": [
+        {
+            "NPI": "1023601309",
+            "Name": "REBECCA ALEXANDER",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "1722 PINE ST STE 203",
+            "City": "MONTGOMERY",
+            "State": "AL",
+            "ZIP": "36066"
+        }
+    ],
+    "180 FITZPATRICK ST": [
+        {
+            "NPI": "1477236248",
+            "Name": "SHAZZIA ALEXANDER",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "180 FITZPATRICK ST",
+            "City": "ELMORE",
+            "State": "AL",
+            "ZIP": "36066"
+        },
+        {
+            "NPI": "1477236248",
+            "Name": "SHAZZIA ALEXANDER",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "180 FITZPATRICK ST",
+            "City": "ELMORE",
+            "State": "AL",
+            "ZIP": "36025"
+        }
+    ],
+    "1802 RIVERTON DR": [
+        {
+            "NPI": "1780677534",
+            "Name": "LYNN AMMON",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "1802 RIVERTON DR",
+            "City": "PRATTVILLE",
+            "State": "AL",
+            "ZIP": "36066"
+        }
+    ],
+    "6201 GREENLEIGH AVE": [
+        {
+            "NPI": "1770101487",
+            "Name": "OLISAELOKA ANYAKWO",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "6201 GREENLEIGH AVE",
+            "City": "BALTIMORE",
+            "State": "MD",
+            "ZIP": "36066"
+        }
+    ],
+    "564 N MEMORIAL DR": [
+        {
+            "NPI": "1235954520",
+            "Name": "ASEEL ABDELAZIZ",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "564 N MEMORIAL DR",
+            "City": "PRATTVILLE",
+            "State": "AL",
+            "ZIP": "36067"
+        }
+    ],
+    "124 S MEMORIAL DR": [
+        {
+            "NPI": "1154949543",
+            "Name": "MUNAZZAH ABDULLAH",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "124 S MEMORIAL DR",
+            "City": "PRATTVILLE",
+            "State": "AL",
+            "ZIP": "36067"
+        },
+        {
+            "NPI": "1386173060",
+            "Name": "CHRISTINA ALLEN",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "124 S MEMORIAL DR",
+            "City": "PRATTVILLE",
+            "State": "AL",
+            "ZIP": "36067"
+        }
+    ],
+    "1015 MEDICAL CENTER PKWY": [
+        {
+            "NPI": "1982203329",
+            "Name": "AMANDA ATCHESON",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "1015 MEDICAL CENTER PKWY",
+            "City": "SELMA",
+            "State": "AL",
+            "ZIP": "36067"
+        }
+    ],
+    "703 S MEMORIAL DR": [
+        {
+            "NPI": "1497196638",
+            "Name": "DEIDRA BAIRD",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "703 S MEMORIAL DR",
+            "City": "PRATTVILLE",
+            "State": "AL",
+            "ZIP": "36067"
+        }
+    ],
+    "649 PARTRIDGE LN": [
+        {
+            "NPI": "1366094583",
+            "Name": "THOMAS BATES",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "649 PARTRIDGE LN",
+            "City": "PRATTVILLE",
+            "State": "AL",
+            "ZIP": "36067"
+        }
+    ],
+    "2050 HOME PARK TRL APT 212": [
+        {
+            "NPI": "1942804810",
+            "Name": "CHRISTINE BAUGHN",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "2050 HOME PARK TRL APT 212",
+            "City": "PRATTVILLE",
+            "State": "AL",
+            "ZIP": "36067"
+        }
+    ],
+    "203 SIMMONS RD": [
+        {
+            "NPI": "1679680219",
+            "Name": "KAREN BELL",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "203 SIMMONS RD",
+            "City": "PRATTVILLE",
+            "State": "AL",
+            "ZIP": "36067"
+        }
+    ],
+    "488 SAINT LUKES DR": [
+        {
+            "NPI": "1831610872",
+            "Name": "ALECIA BERLIN",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "488 SAINT LUKES DR",
+            "City": "MONTGOMERY",
+            "State": "AL",
+            "ZIP": "36067"
+        }
+    ],
+    "120 GREENCREST LN": [
+        {
+            "NPI": "1134242365",
+            "Name": "NANCY BISHOP",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "120 GREENCREST LN",
+            "City": "PRATTVILLE",
+            "State": "AL",
+            "ZIP": "36067"
+        }
+    ],
+    "200 CEDAR DRIVE": [
+        {
+            "NPI": "1407185150",
+            "Name": "DANIEL GUBIN",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "200 CEDAR DRIVE",
+            "City": "COOSADA",
+            "State": "AL",
+            "ZIP": "36020"
+        }
+    ],
+    "165 COOSADA LN": [
+        {
+            "NPI": "1902412430",
+            "Name": "KENNETH HARRIS",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "165 COOSADA LN",
+            "City": "COOSADA",
+            "State": "AL",
+            "ZIP": "36020"
+        }
+    ],
+    "135 TACOMA DR": [
+        {
+            "NPI": "1649093162",
+            "Name": "KANDI PIKE",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "135 TACOMA DR",
+            "City": "COOSADA",
+            "State": "AL",
+            "ZIP": "36020"
+        }
+    ],
+    "PO BOX 210": [
+        {
+            "NPI": "1609565712",
+            "Name": "BRITTANY SNOW",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "PO BOX 210",
+            "City": "COOSADA",
+            "State": "AL",
+            "ZIP": "36020"
+        }
+    ],
+    "POST OFFICE BOX 159": [
+        {
+            "NPI": "1568542991",
+            "Name": "RHONDA WRIGHT",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "POST OFFICE BOX 159",
+            "City": "COOSADA",
+            "State": "AL",
+            "ZIP": "36020"
+        }
+    ],
+    "3769 HWY 14": [
+        {
+            "NPI": "1508814922",
+            "Name": "STEVEN ALLEN",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "3769 HWY 14",
+            "City": "MILLBROOK",
+            "State": "AL",
+            "ZIP": "36022"
+        }
+    ],
+    "65 CHARLTON PL": [
+        {
+            "NPI": "1427387539",
+            "Name": "ALAINA ANDERSON",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "65 CHARLTON PL",
+            "City": "DEATSVILLE",
+            "State": "AL",
+            "ZIP": "36022"
+        }
+    ],
+    "171 HARRISON HILL CT": [
+        {
+            "NPI": "1447626718",
+            "Name": "VINCENT AZZARELLO",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "171 HARRISON HILL CT",
+            "City": "DEATSVILLE",
+            "State": "AL",
+            "ZIP": "36022"
+        }
+    ],
+    "289 SUMMERTIME PKWY": [
+        {
+            "NPI": "1609811512",
+            "Name": "MARIJEAN BALLARD",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "289 SUMMERTIME PKWY",
+            "City": "DEATSVILLE",
+            "State": "AL",
+            "ZIP": "36022"
+        }
+    ],
+    "14 BROOKSHIRE DR": [
+        {
+            "NPI": "1013772326",
+            "Name": "CHRISTOPHER BARKLEY",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "14 BROOKSHIRE DR",
+            "City": "DEATSVILLE",
+            "State": "AL",
+            "ZIP": "36022"
+        }
+    ],
+    "245 CAHABA VALLEY PKWY": [
+        {
+            "NPI": "1922240472",
+            "Name": "ROBERT BROWNING",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "245 CAHABA VALLEY PKWY",
+            "City": "PELHAM",
+            "State": "AL",
+            "ZIP": "36022"
+        }
+    ],
+    "11251 HOLTVILLE RD": [
+        {
+            "NPI": "1356910830",
+            "Name": "MOLLIE CARTER",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "11251 HOLTVILLE RD",
+            "City": "DEATSVILLE",
+            "State": "AL",
+            "ZIP": "36022"
+        }
+    ],
+    "290 LANEY LN": [
+        {
+            "NPI": "1326600362",
+            "Name": "MARY COUSINS",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "290 LANEY LN",
+            "City": "DEATSVILLE",
+            "State": "AL",
+            "ZIP": "36022"
+        }
+    ],
+    "624 ROSS RD": [
+        {
+            "NPI": "1205269776",
+            "Name": "AVERY CULVER",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "624 ROSS RD",
+            "City": "DEATSVILLE",
+            "State": "AL",
+            "ZIP": "36022"
+        }
+    ],
+    "530 S LAWRENCE ST": [
+        {
+            "NPI": "1205552627",
+            "Name": "LACIE ADAMS",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "530 S LAWRENCE ST",
+            "City": "MONTGOMERY",
+            "State": "AL",
+            "ZIP": "36024"
+        }
+    ],
+    "1601 DOUBLE BRIDGE FERRY RD": [
+        {
+            "NPI": "1124862602",
+            "Name": "BRIANNA ELLER",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "1601 DOUBLE BRIDGE FERRY RD",
+            "City": "ECLECTIC",
+            "State": "AL",
+            "ZIP": "36024"
+        }
+    ],
+    "1020 WAKE ROBIN": [
+        {
+            "NPI": "1508146283",
+            "Name": "DONALD HAWKINS",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "1020 WAKE ROBIN",
+            "City": "ECLECTIC",
+            "State": "AL",
+            "ZIP": "36024"
+        }
+    ],
+    "575 CLAUD RD": [
+        {
+            "NPI": "1558452771",
+            "Name": "TERESA HODGE",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "575 CLAUD RD",
+            "City": "ECLECTIC",
+            "State": "AL",
+            "ZIP": "36024"
+        }
+    ],
+    "PO BOX 240519": [
+        {
+            "NPI": "1871739904",
+            "Name": "TERESA LETT",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "PO BOX 240519",
+            "City": "ECLECTIC",
+            "State": "AL",
+            "ZIP": "36024"
+        }
+    ],
+    "PO BOX 241120": [
+        {
+            "NPI": "1568410181",
+            "Name": "GARY MCCULLOCH",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "PO BOX 241120",
+            "City": "ECLECTIC",
+            "State": "AL",
+            "ZIP": "36024"
+        }
+    ],
+    "5024 KOWALIGA RD": [
+        {
+            "NPI": "1982067500",
+            "Name": "KELLY MOONEY",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "5024 KOWALIGA RD",
+            "City": "ECLECTIC",
+            "State": "AL",
+            "ZIP": "36024"
+        }
+    ],
+    "PO BOX 240817": [
+        {
+            "NPI": "1255429197",
+            "Name": "TIM NEEDHAM",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "PO BOX 240817",
+            "City": "ECLECTIC",
+            "State": "AL",
+            "ZIP": "36024"
+        }
+    ],
+    "2736 CLAUD FLEAHOP RD": [
+        {
+            "NPI": "1205425105",
+            "Name": "MORGAN NORRIS",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "2736 CLAUD FLEAHOP RD",
+            "City": "ECLECTIC",
+            "State": "AL",
+            "ZIP": "36024"
+        }
+    ],
+    "8341 KOWALIGA RD": [
+        {
+            "NPI": "1760934202",
+            "Name": "RYAN PEADEN",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "8341 KOWALIGA RD",
+            "City": "ECLECTIC",
+            "State": "AL",
+            "ZIP": "36024"
+        }
+    ],
+    "240 CROSSGATE DR": [
+        {
+            "NPI": "1235669557",
+            "Name": "LAURA ADAMS",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "240 CROSSGATE DR",
+            "City": "ELMORE",
+            "State": "AL",
+            "ZIP": "36025"
+        }
+    ],
+    "6636 HERITAGE OAK CT": [
+        {
+            "NPI": "1447594890",
+            "Name": "KIMBERLY BAILEY",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "6636 HERITAGE OAK CT",
+            "City": "MONTGOMERY",
+            "State": "AL",
+            "ZIP": "36025"
+        }
+    ],
+    "280 MT HEBRON RD": [
+        {
+            "NPI": "1528302023",
+            "Name": "MISTY BELL",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "280 MT HEBRON RD",
+            "City": "ELMORE",
+            "State": "AL",
+            "ZIP": "36025"
+        },
+        {
+            "NPI": "1447881800",
+            "Name": "CHARITY BIBB",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "280 MT HEBRON RD",
+            "City": "ELMORE",
+            "State": "AL",
+            "ZIP": "36025"
+        }
+    ],
+    "6770 SPRING VALLEY DR": [
+        {
+            "NPI": "1750916995",
+            "Name": "BARBARA BLOOMQUIST",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "6770 SPRING VALLEY DR",
+            "City": "ELMORE",
+            "State": "AL",
+            "ZIP": "36025"
+        }
+    ],
+    "6654 TAYLOR RIDGE RD": [
+        {
+            "NPI": "1053016469",
+            "Name": "ARAILIA BODDIE",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "6654 TAYLOR RIDGE RD",
+            "City": "MONTGOMERY",
+            "State": "AL",
+            "ZIP": "36025"
+        }
+    ],
+    "2701 WATERFORD PL": [
+        {
+            "NPI": "1093330664",
+            "Name": "LAURA BOLEY",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "2701 WATERFORD PL",
+            "City": "BIRMINGHAM",
+            "State": "AL",
+            "ZIP": "36025"
+        }
+    ],
+    "7112 UNIVERSITY CT": [
+        {
+            "NPI": "1639870900",
+            "Name": "ARIEL BROWN",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "7112 UNIVERSITY CT",
+            "City": "MONTGOMERY",
+            "State": "AL",
+            "ZIP": "36025"
+        }
+    ],
+    "610 E BELLA VISTA ST": [
+        {
+            "NPI": "1427606037",
+            "Name": "SAMANTHA COHN",
+            "Specialty": "Unknown",
+            "Primary_Practice_Address": "610 E BELLA VISTA ST",
+            "City": "LAKELAND",
+            "State": "FL",
+            "ZIP": "36025"
+        }
+    ]
+}
