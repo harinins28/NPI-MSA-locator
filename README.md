@@ -12,7 +12,7 @@ A **Metropolitan Statistical Area - NPI Locator** that fetches NPI details using
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 | Tool          | Description |
 |--------------|------------|
