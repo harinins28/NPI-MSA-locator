@@ -25,7 +25,7 @@ A **Metropolitan Statistical Area - NPI Locator** that fetches NPI details using
 
 ---
 
-## ⚙️ API Setup & Usage
+##  API Setup & Usage
 
 ### **API Endpoint:**
 The project uses the **NPI Registry API v2.1**:
@@ -35,7 +35,7 @@ https://npiregistry.cms.hhs.gov/api/?version=2.1&postal_code=ZIP_CODE
 
 ---
 
-## 🛠 Setup & Installation
+## Setup & Installation
 
 ### **Clone the Repository**
 ```sh
